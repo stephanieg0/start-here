@@ -1,4 +1,4 @@
-# What are GitHub Actions?
+# What are GitHub Actions? 😀
 
 GitHub Actions allows you to automate, customize and execute your software development workflows inside your repository.
 
